@@ -9,3 +9,9 @@ package/inject/android/
 package/inject/ios/
 package/inject_generator/android/
 package/inject_generator/ios/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
